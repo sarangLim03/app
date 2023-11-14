@@ -150,6 +150,6 @@ button.event {
   'opsz' 24
 }
 
-button:nth-child(3) {
-  text-align:right;
+button.event {
+    float: right;
 }
